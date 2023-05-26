@@ -1,5 +1,7 @@
 ## Hi! Selamat Datang ke Amanz. Welcome to Amanz. 👋
 
+![Amanz Banner.](https://github.com/amanzdev/.github/blob/main/profile/banner.jpg?raw=true)
+
 Amanz Media memfokuskan kepada penghasilan kandungan yang lebih mengkhususkan dunia IT. Kami membangunkan dan mengeluarkan artikel mengenai perkembangan dunia IT dalam dan luar negara, selain pada masa yang sama mengeluarkan ulasan mengenai peranti dan gajet semasa.
 
 ### 🍿 Komuniti Amanz
