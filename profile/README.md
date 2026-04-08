@@ -20,4 +20,4 @@ Amanz Media memfokuskan kepada penghasilan kandungan yang lebih mengkhususkan du
 
 ----
 
-Amanz projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/). For more our copy of the code of conduct see [Code of Conduct](https://github.com/amanzdev/.github/blob/main/CODE_OF_CONDUCT.MD).
+Amanz projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/). For our copy of the code of conduct see [Code of Conduct](https://github.com/amanzdev/.github/blob/main/CODE_OF_CONDUCT.MD).
