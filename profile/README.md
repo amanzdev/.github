@@ -1,22 +1,23 @@
-## Hi! Selamat Datang ke Amanz. Welcome to Amanz. 👋
-
-![Amanz Banner.](https://github.com/amanzdev/.github/blob/main/profile/banner.jpg?raw=true)
+![Amanz Banner.](https://github.com/amanzdev/.github/blob/main/profile/git-header.png?raw=true)
 
 Amanz Media memfokuskan kepada penghasilan kandungan yang lebih mengkhususkan dunia IT. Kami membangunkan dan mengeluarkan artikel mengenai perkembangan dunia IT dalam dan luar negara, selain pada masa yang sama mengeluarkan ulasan mengenai peranti dan gajet semasa.
 
-### 🍿 Komuniti Amanz
+### Our Community
 
-Antara komuniti Amanz adalah:
+<table border="0">
+  <tr>
+    <td><a href="https://amanz.my"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/amanz.jpg?raw=true" width="100"></a></td>
+    <td><a href="https://aksiz.com"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/aksiz.png?raw=true" width="100"></a></td>
+    <td><a href="https://rnggt.com"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/rnggt.png?raw=true" width="100"></a></td>
+    <td><a href="https://nextrift.com"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/nextrift.png?raw=true" width="100"></a></td>
+    <td><a href="https://tajria.com"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/tajria.png?raw=true" width="100"></a></td>
+    <td><a href="https://sukanz.com"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/sukanz.png?raw=true" width="100"></a></td>
+    <td><a href="https://cereka.app"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/cereka.png?raw=true" width="100"></a></td>
+    <td><a href="https://daun.me"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/daun.jpg?raw=true" width="100"></a></td>
+    <td><a href="https://sarwa.app"><img src="https://github.com/amanzdev/.github/blob/main/profile/logos/sarwa.png?raw=true" width="100"></a></td>
+  </tr>
+</table>
 
-- [Amanz](https://amanz.my) memfokuskan kepada berita teknologi terkini di dalam dan luar Malaysia.
-- [Aksiz](https://aksiz.com) memfokuskan kepada berita gaming tempatan dan luar negara.
-- [Rnggt](https://rnggt.com) memfokuskan kepada perihal kewangan dan politik.
-- [Nextrift](https://nextrift.com) memfokuskan kepada berita teknologi, dan kereta di dalam Bahasa Inggeris.
-- [Tajria](https://tajria.com) memfokuskan kepada konten lifestyle.
-- [Tzkrh](https://tzkrh.com/) memfokuskan kepada konten Islamik.
-- [Sukanz](https://sukanz.com) memfokuskan kepada berita sukan.
+----
 
-Kami di Amanz juga mempunyai beberapa aplikasi yang boleh dimuat-turun:
-
-- [Cereka](https://cereka.app) aplikasi eBook yang membenarkan pengguna untuk baca novel fiksyen dari harga RM4.90 sebulan.
-- [Sarwa](https://sarwa.app) aplikasi berita pantas.
+Amanz projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/). For more our copy of the code of conduct see [Code of Conduct](https://github.com/amanzdev/.github/blob/main/CODE_OF_CONDUCT.MD).
